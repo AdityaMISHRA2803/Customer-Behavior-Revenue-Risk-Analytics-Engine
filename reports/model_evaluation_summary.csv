@@ -1,0 +1,6 @@
+Metric,Logistic Regression,Random Forest
+Accuracy,0.807,0.806
+Precision,0.658,0.669
+Recall,0.567,0.535
+F1-Score,0.609,0.594
+ROC-AUC,0.842,0.844
