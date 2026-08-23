@@ -1,4 +1,4 @@
-# Customer Churn Analysis & Prediction — Telecom Retention Intelligence
+# Customer Churn Analysis & Prediction 
 
 An end-to-end churn analytics project built to answer a question every subscription business eventually has to face: which customers are about to leave, why, and what's it costing us? I worked through the same dataset four different ways — Excel, SQL Server, Python, and Power BI — cross-checking every number along the way, then built a predictive model on top of it.
 
