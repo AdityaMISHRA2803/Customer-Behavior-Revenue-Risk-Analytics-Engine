@@ -141,8 +141,3 @@ customer-churn-analytics/
 - Cross-tool data validation — every KPI confirmed independently across 4 platforms
 - Business communication: translating model output and statistical findings into a prioritized, actionable retention strategy
 
-## Author
-
-**Asutosh** — 2025 graduate, currently at DV Analytics, working toward a Data Analyst role. This project was built as part of a hands-on portfolio-building process covering the full analytics stack end to end.
-
-[GitHub](https://github.com/Asutosh-Lenka)
