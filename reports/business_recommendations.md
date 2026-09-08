@@ -1,4 +1,4 @@
-# Customer Churn Analysis — Business Recommendations
+# Customer-Behavior-Revenue-Risk-Analytics
 
 **Dataset:** IBM Telco Customer Churn (7,043 customers) — [Kaggle: blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 **Tools used:** Microsoft Excel, SQL Server, Python (Jupyter), Power BI
